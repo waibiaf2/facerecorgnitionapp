@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/facerecorgnitionapp/static/css/main.b35e01cf.css",
+    "main.js": "/facerecorgnitionapp/static/js/main.ae7d220e.js",
+    "static/js/787.d9370651.chunk.js": "/facerecorgnitionapp/static/js/787.d9370651.chunk.js",
+    "index.html": "/facerecorgnitionapp/index.html",
+    "main.b35e01cf.css.map": "/facerecorgnitionapp/static/css/main.b35e01cf.css.map",
+    "main.ae7d220e.js.map": "/facerecorgnitionapp/static/js/main.ae7d220e.js.map",
+    "787.d9370651.chunk.js.map": "/facerecorgnitionapp/static/js/787.d9370651.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b35e01cf.css",
+    "static/js/main.ae7d220e.js"
+  ]
+}
